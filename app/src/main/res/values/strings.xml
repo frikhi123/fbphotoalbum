@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Facebook Album</string>
+    <string name="description">Simple Mini Facebook Photos Android App\nClick bellow to connect</string>
+    <string name="github_link">https://github.com/frikhi123/fbphotoalbum.git</string>
+    <string name="saved_successfully">Picture(s) saved successfully</string>
+    <string name="save_warning">Check Picture(s) to Save</string>
+
+    <!--Facebook SKD-->
+    <string name="facebook_app_id">1118903731654275</string>
+    <string name="fb_login_protocol_scheme">fb1118903731654275</string>
+    <string name="title_activity_main_activitytest">MainActivitytest</string>
+
+</resources>
